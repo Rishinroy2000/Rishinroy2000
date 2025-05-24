@@ -27,10 +27,10 @@ I'm currently expanding my portfolio through real-world datasets and building da
 
 ## 📌 Featured Projects
 
-🔹 [**World Population Analysis**](#)  
+**World Population Analysis**  
 *Excel & Power BI dashboard to analyze population trends across continents and income groups.*
 
-🔹 [**FIFA World Cup Performance**](#)  
+**FIFA World Cup Performance**  
 *Analyzed historical team performances using Power BI, tracking win rates, goals, and home advantage.*
 
 > 📁 More projects coming soon...
