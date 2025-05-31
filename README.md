@@ -27,8 +27,20 @@ I'm currently expanding my portfolio through real-world datasets and building da
 
 ## 📌 Featured Projects
 
+**Coffee Sales Analysis**
+*Analyzed Coffee consumptions by preferences, time of the day, weekdays and month using Excel.*
+
+**Supply Chain Management Analysis**
+*Analyzed of supply chain efficiency, product performance, and customer demographics using visual dashboards in Power BI and SQL queries.*
+
+**Netflix Data Analysis**
+*A Power BI dashboard visualizing and analysing Netflix content trends and distributions.*
+
 **World Population Analysis**  
-*Excel & Power BI dashboard to analyze population trends across continents and income groups.*
+*Excel dashboards to analyze population trends across continents and income groups.*
+
+**Grocery Sales Analysis**
+* A Power BI dashboard visualizing grocery sales trends across major categories and cities in Tamil Nadu.*
 
 **FIFA World Cup Performance**  
 *Analyzed historical team performances using Power BI, tracking win rates, goals, and home advantage.*
