@@ -40,7 +40,7 @@ I'm currently expanding my portfolio through real-world datasets and building da
 *Excel dashboards to analyze population trends across continents and income groups.*
 
 **Grocery Sales Analysis**
-* A Power BI dashboard visualizing grocery sales trends across major categories and cities in Tamil Nadu.*
+*A Power BI dashboard visualizing grocery sales trends across major categories and cities in Tamil Nadu.*
 
 **FIFA World Cup Performance**  
 *Analyzed historical team performances using Power BI, tracking win rates, goals, and home advantage.*
